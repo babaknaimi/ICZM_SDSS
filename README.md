@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## A Spatial Decision Support Systems (SDSS) for Integrated Coastal Zone Management (ICZM)
 
-You can use the [editor on GitHub](https://github.com/babaknaimi/ICZM_SDSS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the source code for a project I implemented in Python. This is a simple desktop GIS application that provides some functionality for visualizing and processing some specific Iranian ICZM data that helps for decision making and planning spatially. In addition, some tools were developed to link this application to a bigger Enterprise GIS that my team and I had implemented for the PMO organization in Iran. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is just the source code that might help someone in understanding how the relevant modules and libraries are utilized. The GUI is based on PyQT4, and different geospatial libraries in Python were employed in this project. Feel free to take a look at the codes.
 
-### Markdown
+You can look at my websites at:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+http://www.biogeoinformatics.org
 
-```markdown
-Syntax highlighted code block
+http://r-gis.net
 
-# Header 1
-## Header 2
-### Header 3
+Good luck!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/babaknaimi/ICZM_SDSS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Babak Naimi
