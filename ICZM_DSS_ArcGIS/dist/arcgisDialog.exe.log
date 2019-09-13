@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "arcgisDialog.py", line 1173, in <module>
+  File "arcgisDialog.py", line 1165, in main
+  File "arcgisDialog.py", line 66, in __init__
+  File "arcgisDialog.py", line 897, in extractData
+  File "arcgisDialog.py", line 910, in readSpatialData
+AttributeError: 'NoneType' object has no attribute 'GetLayer'
+Traceback (most recent call last):
+  File "arcgisDialog.py", line 1173, in <module>
+  File "arcgisDialog.py", line 1165, in main
+  File "arcgisDialog.py", line 66, in __init__
+  File "arcgisDialog.py", line 897, in extractData
+  File "arcgisDialog.py", line 910, in readSpatialData
+AttributeError: 'NoneType' object has no attribute 'GetLayer'
+Traceback (most recent call last):
+  File "arcgisDialog.py", line 1173, in <module>
+  File "arcgisDialog.py", line 1165, in main
+IndexError: list index out of range
